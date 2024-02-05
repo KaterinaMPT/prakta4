@@ -1,0 +1,334 @@
+body{
+    background-color: white;
+}
+.logo{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 45px;
+    margin-bottom: 6%;
+    font-family: 'DM Sans';
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.div1{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 45px;
+    margin-bottom: 6%;
+    font-family: 'DM Sans';
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+}
+.div2{
+    position: absolute;
+    margin-left: 73%;
+    margin-right: 20%;
+    margin-top: 45px;
+    margin-bottom: 6%;
+    font-family: 'DM Sans';
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.div3{
+    position: absolute;
+    margin-left: 81%;
+    margin-right: 10%;
+    margin-top: 45px;
+    margin-bottom: 6%;
+    font-family: 'DM Sans';
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.div4{
+    position: absolute;
+    margin-left: 89%;
+    margin-right: 0%;
+    margin-top: 45px;
+    margin-bottom: 6%;
+    font-family: 'DM Sans';
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.osnov{
+    position: absolute;
+    width: 360px;
+    height: 129px;
+    margin-left: 10%;
+    margin-top: 390px;
+    font-family: 'DM Sans';
+    font-size: 60px;
+    line-height: 97.2%;
+    letter-spacing: -0.03em;
+    color: #181717;
+    
+}
+.str{
+    position: absolute;
+    width: 50px;
+    height: 60px;
+    margin-left: 11%;
+    margin-top: 610px;
+    font-size: 60px;
+}
+.osnov2{
+    position: absolute;
+    width: 580px;
+    height: 111px;
+    margin-left: 43%;
+    margin-top: 455px;
+    font-family: 'DM Sans';
+    font-size: 27px;
+    line-height: 117%;
+    letter-spacing: -0.03em;
+    color: #606060;
+}
+.nazvanie01{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 730px;
+    font-family: 'Inter';
+    font-size: 20px;
+    line-height: 122%;
+    color: #181717;
+}
+.opisanie01{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 775px;
+    font-family: 'Inter';
+    font-size: 20px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.podopisanie01{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 880px;
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #606060;
+}
+.link01{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1060px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    text-decoration-line: underline;
+    color: #181717;
+}
+.razdel01{
+    position: absolute;
+    width: 1175px;
+    height: 1px;
+    margin-left: 10%;
+    margin-right: 0px;
+    margin-top: 1130px;
+    margin-bottom: 500px;
+    background: #000000;
+}
+.pryamoug01{
+    position: absolute;
+    width: 630px;
+    height: 330px;
+    margin-left: 680px;
+    margin-right: 0px;
+    margin-top: 750px;
+    margin-bottom: 500px;
+    background-image: URL("goblin.jpg");
+}
+.nazvanie02{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1170px;
+    font-family: 'Inter';
+    font-size: 20px;
+    line-height: 122%;
+    color: #181717;
+}
+.opisanie02{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1205px;
+    font-family: 'Inter';
+    font-size: 20px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.podopisanie02{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1320px;
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #606060;
+}
+.link02{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1480px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    text-decoration-line: underline;
+    color: #181717;
+}
+.razdel02{
+    position: absolute;
+    width: 1175px;
+    height: 1px;
+    margin-left: 10%;
+    margin-right: 0px;
+    margin-top: 1555px;
+    margin-bottom: 500px;
+    background: #000000;
+}
+.pryamoug02{
+    position: absolute;
+    width: 630px;
+    height: 330px;
+    margin-left: 680px;
+    margin-right: 0px;
+    margin-top: 1180px;
+    margin-bottom: 500px;
+    background-image: URL("lady.jpg");
+}
+.nazvanie03{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1600px;
+    font-family: 'Inter';
+    font-size: 20px;
+    line-height: 122%;
+    color: #181717;
+}
+.opisanie03{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1637px;
+    font-family: 'Inter';
+    font-size: 20px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.podopisanie03{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1755px;
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #606060;
+}
+.link03{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 1920px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    text-decoration-line: underline;
+    color: #181717;
+}
+.razdel03{
+    position: absolute;
+    width: 1175px;
+    height: 1px;
+    margin-left: 10%;
+    margin-right: 0px;
+    margin-top: 1995px;
+    margin-bottom: 500px;
+    background: #000000;
+}
+.pryamoug03{
+    position: absolute;
+    width: 630px;
+    height: 330px;
+    margin-left: 680px;
+    margin-right: 0px;
+    margin-top: 1610px;
+    margin-bottom: 500px;
+    background-image: URL("kotyata.jpg");
+}
+.foot{
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 68%;
+    margin-top: 2180px;
+    margin-bottom: 50px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.div5{
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 2180px;
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.div6{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 2180px;
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+.div7{
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 2180px;
+    margin-bottom: 50px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 122%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
